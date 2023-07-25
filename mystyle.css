@@ -1,0 +1,206 @@
+/*%%%%%%%%%%%%%%%%%%*/
+/*EVERYWHERE*/
+
+body{
+	background-color:#fefefe;
+	color:#333;
+}
+
+a:link, a:visited{
+	text-decoration:none;
+	color:#777;
+}
+a:hover{
+	text-decoration:underline;
+	color:#555;
+}
+
+#description_list{
+	margin-left:10px;
+	margin-top:5px;
+	font-size:85%;
+}
+#description{
+	margin-top:5px;
+	margin-left:30px;
+	font-size:90%;
+}
+
+h4,h5,h6{
+	color:#2E556E;
+}
+h3{
+	color:#2B4F66;
+}
+h2{
+	color:#28495E;
+}
+h1{
+	color:#233f50;
+}
+
+
+
+
+
+/*%%%%%%%%%%%%%%%%%%*/
+/*HOME*/
+
+#all_home {
+	width:680px;
+	margin: auto;
+	font-family: verdana, helvetica, arial, sans-serif;
+	background: url(images/fotomia.jpg) no-repeat top right;
+	background-size: 200px;
+	padding-top:40px;
+	position:relative;
+}
+
+#news{
+	width:400px;
+	margin:20px 0 70px 30px;
+	font-size:95%;
+}
+#news a:link, visited{
+	text-decoration: underline;
+}
+
+#name {
+	text-align:left;
+	margin: 20px 20px 0 20px;
+}
+
+#intro{
+	margin:150px 0 0 0;
+	text-align:justify;
+	width: 500px;
+}
+
+#links{
+	position:absolute;
+	text-align:left;
+	width:150px;
+	top:250px;
+	left:550px;
+}
+#links li{
+	list-style:none;
+	margin: 10px 0;
+}
+
+
+
+
+
+/*%%%%%%%%%%%%%%%%%%*/
+/*EDUCATION AND EXPERIENCE*/
+
+#all_eduexp {
+	width:680px;
+	margin: auto;
+	font-family: verdana, helvetica, arial, sans-serif;
+	padding-top:40px;
+	position:relative;
+}
+
+#eduexp {
+	margin:100px 0 0 0;
+	text-align:justify;
+	width: 500px;
+}
+#eduexp li{
+	margin: 25px 0;
+}
+
+#sublist{
+	margin-top:5px;
+}
+#sublist li{
+	margin:0;
+}
+
+
+
+
+/*%%%%%%%%%%%%%%%%%%*/
+/*RESEARCH*/
+
+#all_research {
+	width:680px;
+	margin: auto;
+	font-family: verdana, helvetica, arial, sans-serif;
+	padding-top:40px;
+	position:relative;
+}
+#research {
+	margin:100px 0 0 0;
+	text-align:justify;
+	width: 500px;
+}
+#research li{
+	margin: 25px 0;
+	font-size:90%;
+}
+
+
+
+
+
+
+/*%%%%%%%%%%%%%%%%%%*/
+/*CONTACTS AND LINKS*/
+
+#all_contacts {
+	width:680px;
+	margin: auto;
+	font-family: verdana, helvetica, arial, sans-serif;
+	padding-top:40px;
+	position:relative;
+}
+#contacts {
+	margin:100px 0 0 0;
+	text-align:justify;
+	width: 500px;
+}
+
+#logos{
+	font-size:90%;
+	margin:30px 0 0 30px;
+}
+#logos li {
+	margin: 10;
+	padding: 16px 0 16px 60px;
+	list-style: none;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 30px;
+}
+
+#emaillogo li {
+	background-image: url("images/logo_email.jpg");
+}
+
+#scholarlogo li {
+	background-image: url("images/logo_scholar.jpg");
+}
+
+#orcidlogo li {
+	background-image: url("images/logo_orcid.png");
+}
+
+#researchgatelogo li {
+	background-image: url("images/logo_researchgate.png");
+}
+
+#linkedinlogo li {
+	background-image: url("images/logo_linkedin.png");
+}
+
+#cvlogo li {
+	background-image: url("images/logo_cv.jpg");
+}
+
+#githublogo li {
+	background-image: url("images/logo_github.png");
+}
+
