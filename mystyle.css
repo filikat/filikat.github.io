@@ -177,11 +177,11 @@ h1{
 }
 
 #emaillogo li {
-	background-image: url("images/logo_email.jpg");
+	background-image: url("images/logo_email.png");
 }
 
 #scholarlogo li {
-	background-image: url("images/logo_scholar.jpg");
+	background-image: url("images/logo_scholar.png");
 }
 
 #orcidlogo li {
@@ -197,7 +197,7 @@ h1{
 }
 
 #cvlogo li {
-	background-image: url("images/logo_cv.jpg");
+	background-image: url("images/logo_cv.png");
 }
 
 #githublogo li {
