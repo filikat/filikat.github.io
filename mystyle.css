@@ -2,8 +2,8 @@
 /*EVERYWHERE*/
 
 body{
-	background-color:#fefefe;
-	color:#333;
+	background-color:#ffffff;
+	color:#000000;
 }
 
 a:link, a:visited{
@@ -27,16 +27,16 @@ a:hover{
 }
 
 h4,h5,h6{
-	color:#2E556E;
+	color:#000000;
 }
 h3{
-	color:#2B4F66;
+	color:#000000;
 }
 h2{
-	color:#28495E;
+	color:#000000;
 }
 h1{
-	color:#233f50;
+	color:#000000;
 }
 
 
